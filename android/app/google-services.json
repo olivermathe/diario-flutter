@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049768546446",
+    "firebase_url": "https://diario-12a43-default-rtdb.firebaseio.com",
+    "project_id": "diario-12a43",
+    "storage_bucket": "diario-12a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049768546446:android:7a5a2c6eba356f28e9f9df",
+        "android_client_info": {
+          "package_name": "com.olivermathe.diario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049768546446-e0q751lefsd40f9d42q3f2v8mejn52k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olivermathe.diario",
+            "certificate_hash": "b15fa532ed406f4ac92f89244e09859a147d5a7c"
+          }
+        },
+        {
+          "client_id": "1049768546446-0fqo9bf4rivlc4km8p3g0sfhtpjfcf8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHE_P7jH6SzXAKn4ldMjjIKe5-qPsbQx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049768546446-0fqo9bf4rivlc4km8p3g0sfhtpjfcf8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
