@@ -1,6 +1,8 @@
 import 'package:diario/pages/home/day_limit_presentation.dart';
+import 'package:diario/shared/models/config.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 class Home extends StatefulWidget {
 
@@ -21,12 +23,7 @@ class HomeState extends State<Home> {
       mainAxisAlignment: MainAxisAlignment.spaceAround,
       children: [
         Center(
-          child: DayLimitPresentation(
-            limit: 27.65,
-            spent: [
-              10.00
-            ],
-          )
+          child: DayLimitPresentation()
         ),
         Center(
           child: Text('Baixo'),
